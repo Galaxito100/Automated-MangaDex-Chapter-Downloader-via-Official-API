@@ -11,9 +11,9 @@ Guía de uso:
 
 Un episodio almacenado en la página de Mangadex tiene la siguiente estructura:
 
-https://mangadex.org/chapter/**31dd0740-20d5-4037-bfd8-1e26a3a32198**/1
+https://mangadex.org/chapter/244fb4b1-c918-4f37-9840-28d156b6ad2f/1
 
-La parte resaltada indica el ID capítulo, bastará con copiar dicho texto y colocarlo en el código para exportar a vuestro pc las imágenes deseadas.
+En este caso "244fb4b1-c918-4f37-9840-28d156b6ad2f" indica el ID capítulo, bastará con copiar dicho texto y reemplazarlo en el código para exportar a vuestro pc las imágenes deseadas.
 
 Una correcta ejecución del código debería visualizarse con el siguiente mensaje:
 
